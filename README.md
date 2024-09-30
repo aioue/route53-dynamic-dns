@@ -35,7 +35,7 @@ Usage of /usr/bin/route53-dynamic-dns:
 
 ## Installation on Unifi Dream Machine
 
-First, set up `udm-utilities` from https://github.com/boostchicken/udm-utilities on your Unifi Dream Machine. This utilitiy is very useful with [kchristensen/udm-le](https://github.com/kchristensen/udm-le/) for Lets Encrypt TLS and [wireguard-go](https://github.com/boostchicken/udm-utilities/tree/master/wireguard-go) in udm-utilities.
+First, set up `udm-utilities` from https://github.com/boostchicken/udm-utilities on your Unifi Dream Machine. This utility is very useful with [kchristensen/udm-le](https://github.com/kchristensen/udm-le/) for Lets Encrypt TLS and [wireguard-go](https://github.com/boostchicken/udm-utilities/tree/master/wireguard-go) in udm-utilities.
 
 1. Copy the contents of this repo to your device at `/mnt/data/route53-dynamic-dns`.
    ```sh
